@@ -1,6 +1,6 @@
 # TareasPOO.v1
 
-En estos 3 códigos utilizo una clase principal en la que defino los
+En estos códigos utilizo una clase principal en la que defino los
 setter y getter que utilizaré, así como los métodos, tanto constructores
 como principales.
 
